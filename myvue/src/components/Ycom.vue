@@ -1,5 +1,5 @@
 <template>
-    <div>这是组件2</div>
+    <div>这是组件22</div>
 </template>
 
 <script>
